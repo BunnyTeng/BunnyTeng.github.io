@@ -1,9 +1,9 @@
 # Site settings
-title: Thomas Zühlke
+title: Cindy Chen
 description: 'Business Card Page'
 url: 'http://thomas.zuehlke.family'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: 'tutu.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
