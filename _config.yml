@@ -1,21 +1,21 @@
 # Site settings
 title: Cindy Chen
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'https://bunnyteng.github.io/'
 baseurl: ''
 profilepic: 'tutu.png'
-bkimage: '/images/bk1.jpg'
+bkimage: 'background.png'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'Cindy Chen'
+  email: 1347670351@qq.com
+#  twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  BunnyTeng
+#  linkedin_username:  thomas-zühlke-889182165
+#  meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
